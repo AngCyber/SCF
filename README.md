@@ -14,8 +14,8 @@
   $ pip install -r requirements.txt
   $ python run.py
 ```
-#### for results
-![IMG_20230715_043419](https://github.com/AngCyber/SCF/assets/92802033/51df9d9d-9e57-4389-afb3-6d56e5edc5a3)
 
 [![Facebokm Badge](https://img.shields.io/badge/-aang.qwerty69-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/aang.qwerty69/)](https://www.facebook.com/aang.qwerty69)
 [![Instagram Badge](https://img.shields.io/badge/-aangxd.qwerty_-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/aangxd.qwerty_/)](https://www.instagram.com/aangxd.qwerty_/)
+
+#### Thank you for your support !!
